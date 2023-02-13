@@ -1,8 +1,8 @@
 🔭 I’m currently working on GIST Biorobotics
 
-👀 I'm mainly interested in Mobile robots(Quadrotor, UGV) 
-
 🌱 I’m currently learning Path Planning and Control for Robotics application(Collision Avoidance, Tracking) 
+
+👀 I'm mainly interested in Mobile robots(Quadrotor, UGV) 
 
 ✨ MyBlog, https://robonote.tistory.com/
 
