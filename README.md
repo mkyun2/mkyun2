@@ -1,6 +1,6 @@
 🔭 I’m currently working on GIST Biorobotics
 
-🌱 I’m currently learning Path Planning and Control for Robotics application(Collision Avoidance, Tracking) 
+🌱 I’m currently learning Planning and Control for Robotics application(Collision Avoidance, Tracking) 
 
 👀 I'm mainly interested in Mobile robots(Quadrotor, UGV) 
 
